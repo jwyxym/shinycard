@@ -1,6 +1,6 @@
 {
   "name": "shinycard",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An interactive holographic card component for Vue 3.",
   "type": "module",
   "files": ["dist"],
